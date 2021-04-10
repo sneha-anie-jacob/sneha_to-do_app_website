@@ -1,0 +1,53 @@
+*{ 
+    padding: 0px;
+    margin: 0px;
+}
+
+.sidebar{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* padding: 100px; */
+    margin: 10px;
+    margin-top: 10px;
+    
+}
+
+.sidepic{
+    /* margin-left: 100%; */
+    padding-left: 70%;
+}
+
+
+
+
+/* .myMargin{
+    margin: 25px;
+    text-align: center;
+}  */
+
+/* #back{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+
+} */
+
+/* .nav-item
+{
+    color: white;
+} */
+
+/* #nav-link{
+    color: white;
+} */
+
+footer{
+    background-color:rgb(113, 187, 206);;
+    color: white;
+    height: 1.45em;
+    margin-top: 2.5%;
+  
+}
+
+footer p{
+    text-align: center;
+}

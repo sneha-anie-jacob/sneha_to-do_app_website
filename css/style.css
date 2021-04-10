@@ -1,0 +1,23 @@
+#back{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+
+}
+h1{
+    text-align: center;
+     /* padding: 500px; */
+     margin-bottom: 250px;
+     /* margin-top: 50%; */
+     /* padding: 5%; */
+     color:rgb(247, 91, 44);
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.myMargin{
+    /* height:10px ; */
+    margin-top:8%; 
+    margin-left: 38%; 
+   /* padding: 1%; */
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
